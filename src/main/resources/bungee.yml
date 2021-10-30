@@ -1,0 +1,3 @@
+name: TabSorting
+version: '${project.version}'
+main: tev.tabsorting.Main
